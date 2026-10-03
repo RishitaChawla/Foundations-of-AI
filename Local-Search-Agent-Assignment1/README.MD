@@ -60,6 +60,7 @@ The overall process is:
                    │
                    ▼
               Repeat Search
+```
 
 ## Conclusion
 
