@@ -2,7 +2,7 @@
 Foundations of AI project assignments covering search, optimization, local search, intelligent agents, and reinforcement learning with applications to robotics and autonomous systems.
 
 
-# Local Search Agent – Assignment 1
+## Local Search Agent – Assignment 1
 
 An AI agent that uses a hill-climbing local search approach to iteratively evaluate possible moves and improve the solution based on an objective function.
 *Topics: Hill Climbing · Local Search · Optimization · Objective Functions · Intelligent Agents*
