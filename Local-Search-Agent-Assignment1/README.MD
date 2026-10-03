@@ -60,3 +60,23 @@ The overall process is:
                    │
                    ▼
               Repeat Search
+
+## Conclusion
+
+This project demonstrated how **hill-climbing local search** can be used to solve a grid-based problem without exhaustively exploring the entire search space. The agent evaluates candidate placements using an objective function, selects improving moves, and uses **multiple trials, restarts, and a backup strategy** when the search becomes stuck.
+
+The project provided hands-on experience with **state-space representation, heuristic evaluation, optimization, local search, and intelligent-agent decision making**. These concepts are relevant to robotics and autonomous systems, where similar search and optimization techniques can be applied to planning, navigation, and autonomous decision-making.
+
+## How to Run
+
+### Requirements
+
+- Python 3
+- NumPy
+- Pygame / pygame-ce
+- Dependencies listed in `requirements.txt`
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/RishitaChawla/Foundations-of-AI.git
